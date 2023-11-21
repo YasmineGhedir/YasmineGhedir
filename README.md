@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JMeter**
 
-- 💬 Ask me about **SDLC,TDD,Automation Testing.**
+- 💬 Ask me about **SDLC,TDD, Automation Testing.**
 
 - 📫 How to reach me **yesmine.ghedir@gmail.com**
 
